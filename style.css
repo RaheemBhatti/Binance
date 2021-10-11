@@ -1,0 +1,46 @@
+.row1{background: #000;padding: 35px 0;border-bottom: 1px solid #fff;}
+.row1_col1 strong{font-size: 44px;width: 20%;}
+.row1_col1 h2{font-size: 14px;width: 80%;padding-top: 19px;}
+.bg{background-color: #ffcc33 !important; }
+.font-color{color: #ffcc33 !important;}
+.row1_col2{padding-top: 5px;}
+.row1_col2 h2{font-size: 14px;width: 60%;padding-top: 15px;}
+.row1_col2 h2 span{font-size: 20px;}
+.row2{background: url(images/header.jpg) no-repeat center;background-size: cover;padding: 50px 0;}
+.row2 h2{font-size: 24px;color: #fff;}
+.row2 h3{font-size: 30px;}
+.row2 h2 span{font-size: 28px;}
+.row2_col1{padding: 105px 0;}
+.row2_col1 h5{font-size: 33px;color: #0d1b2d;}
+.row2_col1 h4{font-size: 65px;color: #0d1b2d;}
+.row2_col2 .row{background: #0d1b2d;padding: 5px 0;}
+.row2_col2 h3{font-size: 15px;color: #fff;}
+.row2_col2 h2{font-size: 24px;}
+.row2_col2{background: #fff;}
+.row2_col2 input{width: 100%;background: #e1e1e1;height: 45px;margin-top: 7px;outline: none;border: 0;border-radius: 5px;text-indent: 7px;}
+.row2_col2 input[type="submit"]{font-size: 24px;}
+.row2_col2 input[type="number"]{background:#e1e1e1 url(images/Main_10.jpg) no-repeat left 7px center;text-indent: 44px;}
+.row3{padding: 50px 0;}
+.row3 h2{margin-bottom: 30px;}
+.row3_col1{background: #000;padding: 50px 20px;}
+.row3_col1 p{margin-top: 30px;}
+.cir{height: 90px;width: 90px;margin: auto; font-size: 35px;line-height: 90px;}
+.row4{padding: 60px 0;background: #000;display: inline-block;}
+.row4 h2{margin-bottom: 50px;}
+.row5{padding: 50px 0;}
+.row5 h2{font-size: 35px;margin-bottom: 50px;padding: 0 100px;}
+.row5_col1{background: #e1e1e1;padding: 0 25px 60px 25px;}
+.row5_col1 h3{font-size: 25px;margin: 30px 0 15px 0;}
+.cir_1{width: 110px;height: 110px;background: url(images/icon_1.jpg) no-repeat center;margin: auto;border: 3px solid #fff;}
+.row6{background: url(images/header.jpg) no-repeat center;padding: 60px 0;background-size: cover;display: inline-block;color: #fff;}
+.row6_col2 h2{font-size:35px ;}
+.row6_col2 h3{font-size:23px ;}
+.row6_col2 p{font-size:17px ;line-height: 30px;margin-top: 30px;}
+.row7{padding: 50px;}
+.row7 input{width: 100%;height: 75px;background: #e1e1e1;outline: none;border: 0;border-radius: 10px;margin: 10px 0;text-indent: 20px;}
+.row7 input[type="number"]{background:#e1e1e1 url(images/Main_10.jpg) no-repeat left 7px center;text-indent: 74px;}
+.footer{background: url(images/footer.jpg) no-repeat center; padding: 50px 0;}
+.footer p{font-size: 17px;color: #fff;}
+.footer h2{font-size: 24px;color: #f3ba2f;}
+.copy {color: #fff;}
+
